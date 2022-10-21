@@ -1,0 +1,31 @@
+#menu {
+  background: rgb(178, 126, 221);
+list-style: none;
+position: fixed;
+margin-top: 0px;
+top: 0px;
+right: 0px;
+cursor: pointer;
+}
+.link {
+float: left;
+padding-left: 9px;
+padding-top: 5px;
+padding-right: 9px;
+padding-bottom: 5px;
+font-family: fantasy;
+font-size: 20px;
+}
+.link:hover{
+  font-size: 25px;
+}
+#naves {
+    width: 1200px;
+    height: 600px;
+}
+#OZ{
+  height:600px;
+}
+body{
+  background-color: rgb(167, 87, 214);
+}
